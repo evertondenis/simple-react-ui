@@ -1,1 +1,1 @@
-echo # simple-react-ui
+# simple-react-ui
